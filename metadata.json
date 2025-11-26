@@ -1,0 +1,5 @@
+{
+  "name": "AI HTML Generator & Compiler",
+  "description": "A web application that uses AI to generate HTML code from a text description and provides a live preview. It also includes a Text-to-Speech feature to read the generated code aloud.",
+  "requestFramePermissions": []
+}
